@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Acerca de mi:
 Acerca de mi: <br><br>Perfil de GitHub<br><br>¡Hola! Soy Juan Andrés, soy aprendiz del Técnico en Programación de Software<br>Ficha: 2875029<br><br>Mi objetivo es aprender y compartir mis conocimientos y experiencias para ayudar a otros, aprender y crecer en el mundo de la programación
 
 
